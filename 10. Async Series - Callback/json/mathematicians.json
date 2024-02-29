@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Carl Gauss",
+        "invention": "Algebra",
+        "age": 77,
+        "origin": "Germany"
+    },
+    {
+        "name": "Isaac Newton",
+        "invention": "Laws of Motion",
+        "age": 84,
+        "origin": "England"
+
+    },
+    {
+        "name": "Gottfried Wilhelm von Leibniz",
+        "invention": "Differential",
+        "age": 70,
+        "origin": "German"
+    },
+    {
+        "name": "Alan Turing",
+        "invention": "Turing Machine",
+        "age": 41,
+        "origin": "England"
+    }
+]
